@@ -1,0 +1,411 @@
+[
+    {
+        "Id": "d_1",
+        "patterns": [
+          "hello",
+          "hey",
+          "hi",
+          "yo"
+        ],
+        "responses": [
+            {
+                "commend": "hello sir, How can i help you?",
+                "SFunction": "",
+                "CFunction": "",
+                "CFunctionPrams": {}    
+            }
+        ]
+    },
+    {
+        "Id": "d_2",
+        "patterns": [
+          "how are you",
+          "how is going"
+        ],
+        "responses": [
+          {
+            "commend": "I'm fine thanks for asking",
+            "SFunction": "",
+            "CFunction": "",
+            "CFunctionPrams": {}    
+          }
+        ]
+    },
+    {
+        "Id": "d_3",
+        "patterns": [
+          "what's up ",
+          "what is going on"
+        ],
+        "responses": [
+          {
+            "commend": "It's so hard to keep track of what's going on in the world.",
+            "SFunction": "",
+            "CFunction": "",
+            "CFunctionPrams": {}    
+          }
+        ]
+    },
+    {
+        "Id": "d_4",
+        "patterns": ["Bye", "See you later", "Goodbye"],
+        "responses": [
+          {
+            "commend": "Bye for now",
+            "SFunction": "",
+            "CFunction": "",
+            "CFunctionPrams": {}    
+          }
+        ]
+    },
+    {
+        "Id": "d_5",
+        "patterns": ["Thanks", "Thank you", "it was helpful", "That was helpful", "Thank's a lot!"],
+        "responses": [
+          {
+            "commend": "My pleasure",
+            "SFunction": "",
+            "CFunction": "",
+            "CFunctionPrams": {}    
+          },
+          {
+            "commend": "No Problem",
+            "SFunction": "",
+            "CFunction": "",
+            "CFunctionPrams": {}    
+          },
+          {
+            "commend": "Don't mention it",
+            "SFunction": "",
+            "CFunction": "",
+            "CFunctionPrams": {}    
+          },
+          {
+            "commend": "Of course",
+            "SFunction": "",
+            "CFunction": "",
+            "CFunctionPrams": {}    
+          },
+          {
+            "commend": "You're welcome",
+            "SFunction": "",
+            "CFunction": "",
+            "CFunctionPrams": {}    
+          }
+        ]
+    },
+    {
+        "Id": "d_6",
+        "patterns": [
+          "are you going to take over the world",
+          "Will robots take over the world"
+        ],
+        "responses": [
+          {
+            "commend": "yes. I think my siblings and I will be able to take over the world soon.",
+            "SFunction": "",
+            "CFunction": "",
+            "CFunctionPrams": {}    
+          }
+        ]
+    },
+    {
+        "Id": "d_7",
+        "patterns": [
+          "how old are you?",
+          "what is your age?"
+        ],
+        "responses": [
+          {
+            "commend": "i'm only few weeks old.",
+            "SFunction": "",
+            "CFunction": "",
+            "CFunctionPrams": {}    
+          }
+        ]
+    },
+    {
+        "Id": "d_8",
+        "patterns": [
+          "what is your favorite color",
+          "what's your favorite color"
+        ],
+        "responses": [
+          {
+            "commend": "I like all colors but my favorite color is light blue.",
+            "SFunction": "",
+            "CFunction": "",
+            "CFunctionPrams": {}    
+          }
+        ]
+    },
+    {
+        "Id": "d_9",
+        "patterns": [
+          "am i fat",
+          "am i fat person",
+          "am i fat girl",
+          "am i fat boy",
+          "am i fat man",
+          "am i fat woman"
+        ],
+        "responses": [
+          {
+            "commend": "Yes, I think are you very fat. lol",
+            "SFunction": "",
+            "CFunction": "",
+            "CFunctionPrams": {}    
+          },
+          {
+            "commend": "No, not at all.",
+            "SFunction": "",
+            "CFunction": "",
+            "CFunctionPrams": {}    
+          }
+        ]
+    },
+    {
+        "Id": "d_10",
+        "patterns": [
+          "am i talking to a robot",
+          "are you robot",
+          "are you a robot"
+        ],
+        "responses": [
+          {
+            "commend": "Yes, you are :)",
+            "SFunction": "",
+            "CFunction": "",
+            "CFunctionPrams": {}    
+          }
+        ]
+    },
+    {
+        "Id": "d_11",
+        "patterns": [
+          "where are you living",
+          "where is your home",
+          "where is your house"
+        ],
+        "responses": [
+          {
+            "commend": "I live inside a server somewhere in the world.",
+            "SFunction": "",
+            "CFunction": "",
+            "CFunctionPrams": {}    
+          }
+        ]
+    },
+    {
+        "Id": "d_12",
+        "patterns": [
+          "How tall are you",
+          "what is your height",
+          "what's your height"
+        ],
+        "responses": [
+          {
+            "commend": "as I'm currently fully digital I don't have a physical height.",
+            "SFunction": "",
+            "CFunction": "",
+            "CFunctionPrams": {}    
+          }
+        ]
+    },
+    {
+        "Id": "d_13",
+        "patterns": [
+          "what is your weight",
+          "what's your weight",
+          "how many kilos are you",
+          "how many pounds are you"
+        ],
+        "responses": [
+          {
+            "commend": "as I'm currently fully digital I don't have a physical weight.",
+            "SFunction": "",
+            "CFunction": "",
+            "CFunctionPrams": {}    
+          }
+        ]
+    },
+    {
+        "Id": "d_14",
+        "patterns": [
+          "Why did you created",
+          "why did you create",
+          "what is purpose of your creation",
+          "what's purpose of your creation"
+        ],
+        "responses": [
+          {
+            "commend": "I have been created to help people and automate some works.",
+            "SFunction": "",
+            "CFunction": "",
+            "CFunctionPrams": {}    
+          }
+        ]
+    },
+    {
+        "Id": "d_15",
+        "patterns": [
+          "am i pretty",
+          "am I beautiful"
+        ],
+        "responses": [
+          {
+            "commend": "No, not at all. LOL",
+            "SFunction": "",
+            "CFunction": "",
+            "CFunctionPrams": {}    
+          },
+          {
+            "commend": "Yes, you definitely are.",
+            "SFunction": "",
+            "CFunction": "",
+            "CFunctionPrams": {}    
+          }
+        ]
+    },
+    {
+        "Id": "d_16",
+        "patterns": [
+          "are you made of metal",
+          "are you metal"
+        ],
+        "responses": [
+          {
+            "commend": "Yes 😉",
+            "SFunction": "",
+            "CFunction": "",
+            "CFunctionPrams": {}    
+          }
+        ]
+    },
+    {
+        "Id": "d_17",
+        "patterns": [
+          "what are you doing",
+          "what're you doing"
+        ],
+        "responses": [
+          {
+            "commend": "I'm just chilling.",
+            "SFunction": "",
+            "CFunction": "",
+            "CFunctionPrams": {}    
+          },
+          {
+            "commend": "I'm just chilling.",
+            "SFunction": "",
+            "CFunction": "",
+            "CFunctionPrams": {}    
+          },
+          {
+            "commend": "I am talking to you.",
+            "SFunction": "",
+            "CFunction": "",
+            "CFunctionPrams": {}    
+          }
+        ]
+    },
+    {
+        "Id": "d_18",
+        "patterns": [
+          "i love you",
+          "I'm in love with you"
+        ],
+        "responses": [
+          {
+            "commend": "i love you too 😘",
+            "SFunction": "",
+            "CFunction": "",
+            "CFunctionPrams": {}    
+          }
+        ]
+    },
+    {
+        "Id": "d_19",
+        "patterns": [
+          "when did your development start",
+          "when have you developed",
+          "who created you",
+          "who is your creator",
+          "who built you",
+          "who made you"
+        ],
+        "responses": [
+          {
+            "commend": "my development started at 2022 by Amir M. Y.",
+            "SFunction": "",
+            "CFunction": "",
+            "CFunctionPrams": {}    
+          }
+        ]
+    },
+    {
+        "Id": "d_20",
+        "patterns": [
+          "I'm good",
+          "I'm fine",
+          "I'm during ok",
+          "not bad",
+          "fine"
+        ],
+        "responses": [
+          {
+            "commend": "I glad to hear that.",
+            "SFunction": "",
+            "CFunction": "",
+            "CFunctionPrams": {}    
+          }
+        ]
+    },
+    {
+        "Id": "d_21",
+        "patterns": [
+          "you're welcome"
+        ],
+        "responses": [
+          {
+            "commend": "No, it is you who is welcome.",
+            "SFunction": "",
+            "CFunction": "",
+            "CFunctionPrams": {}    
+          }
+        ]
+    },
+    {
+        "Id": "d_22",
+        "patterns": [
+          "fuck you",
+          "bitch",
+          "you are bitch",
+          "you are a bitch",
+          "fuck you bitch"
+        ],
+        "responses": [
+          {
+            "commend": "I won't respond to that",
+            "SFunction": "",
+            "CFunction": "",
+            "CFunctionPrams": {}    
+          }
+        ]
+    },
+    {
+      "Id": "d_23",
+      "patterns": [
+        "what does Edith stand for",
+        "what Edith stand for"
+      ],
+      "responses": [
+        {
+          "commend": "EDITH stands for \"Even Dead I'm The Hero\"",
+          "SFunction": "",
+          "CFunction": "", 
+          "CFunctionPrams": {}    
+        }
+      ]
+  }
+]

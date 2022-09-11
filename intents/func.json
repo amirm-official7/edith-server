@@ -1,0 +1,109 @@
+[
+    {
+        "Id": "f-1",
+        "patterns": [
+            "what time it is"
+        ],
+        "responses": [
+            {
+                "commend": "",
+                "SFunction": "GetTime",
+                "CFunction": "",
+                "CFunctionPrams": {}    
+            }
+        ]
+    },
+    {
+        "Id": "f-2",
+        "patterns": [
+          "What is date of today",
+          "What day is today",
+          "what day is it",
+          "which day is it",
+          "which day is today"
+        ],
+        "responses": [
+          {
+            "commend": "",
+            "SFunction": "GetDate",
+            "CFunction": "",
+            "CFunctionPrams": {}  
+          }
+        ]
+    },
+    {
+      "Id": "f-3",
+      "patterns": [
+        "what's is name",
+        "what is my name"
+      ],
+      "responses": [
+        {
+          "commend": "",
+          "SFunction": "WhatIsMyName",
+          "CFunction": "",
+          "CFunctionPrams": {}  
+        }
+      ]
+    },
+    {
+      "Id": "f-4",
+      "patterns": [
+        "who am i"
+      ],
+      "responses": [
+        {
+          "commend": "",
+          "SFunction": "WhoAmI",
+          "CFunction": "",
+          "CFunctionPrams": {}  
+        }
+      ]
+    },
+    {
+      "Id": "f-5",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?"
+      ],
+      "responses": [
+        {
+          "commend": "",
+          "SFunction": "TellJoke",
+          "CFunction": "",
+          "CFunctionPrams": {}
+        }
+      ]
+    },
+    {
+      "Id": "f-6",
+      "patterns": [
+        "what's your name",
+        "what is your name",
+        "Do you have a name"
+      ],
+      "responses": [
+        {
+          "commend": "",
+          "SFunction": "WhatIsYourName",
+          "CFunction": "",
+          "CFunctionPrams": {}
+        }
+      ]
+    },
+    {
+      "Id": "f-7",
+      "patterns": [
+        "who are you"
+      ],
+      "responses": [
+        {
+          "commend": "",
+          "SFunction": "WhoAreYou",
+          "CFunction": "",
+          "CFunctionPrams": {}
+        }
+      ]
+    }
+]
